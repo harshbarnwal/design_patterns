@@ -1,4 +1,4 @@
-import '../base_classes/base_dialog.dart';
+import '../base_classe/base_dialog.dart';
 
 class MacDialog extends BaseDialog {
   @override
