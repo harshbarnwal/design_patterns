@@ -1,0 +1,7 @@
+name: "design_patterns"
+
+environment:
+  sdk: '^3.1.0'
+
+dependencies:
+  collection: ^1.18.0
